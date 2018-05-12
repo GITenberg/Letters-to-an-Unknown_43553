@@ -1,0 +1,37 @@
+_repo: Letters-to-an-Unknown_43553
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43553-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+  editor:
+    agent_name: Saintsbury, George
+    alias: Saintsbury, George Edward Bateman
+    birthdate: 1845
+    deathdate: 1933
+    gutenberg_agent_id: '4608'
+    url: http://www.gutenberg.org/2009/agents/4608
+    wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+description: ''
+gutenberg_issued: '2013-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dacquin, Jeanne Françoise, 1811-1895'
+- !lcsh 'Mérimée, Prosper, 1803-1870 -- Correspondence'
+- !lcc 'PQ'
+title: Letters to an Unknown
+url: http://www.gutenberg.org/ebooks/43553
